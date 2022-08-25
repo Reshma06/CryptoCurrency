@@ -1,0 +1,23 @@
+.main{
+    margin-top: 10%;
+}
+.mainClick{
+    margin-top: 3%;
+}
+body{
+    background-color: #200b46db;
+}
+.fix{
+    border:2px solid #0f1010;
+    border-radius: 5px;
+    background-color:#f3eeeb ;
+    padding: 10px;
+}
+h1,h4{
+    color:#e5e5e5;
+    font-family: book antiqua;
+}
+h4{
+    color: #e5e5e5;
+    font-family: Gabriola;
+}
